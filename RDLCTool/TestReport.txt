@@ -1,5 +1,0 @@
-    public struct DocParameters
-    {
-        public string xFoo;
-        public string xBar;
-    }
