@@ -1,0 +1,7 @@
+A:\Projectz\.net\RDLCTool\RDLCTool\obj\x86\Debug\ResolveAssemblyReference.cache
+A:\Projectz\.net\RDLCTool\RDLCTool\obj\x86\Debug\RdlCompile.cache
+A:\Projectz\.net\RDLCTool\RDLCTool\obj\x86\Debug\RdlCompile.compiled
+A:\Projectz\.net\RDLCTool\RDLCTool\bin\Debug\RDLCTool.exe
+A:\Projectz\.net\RDLCTool\RDLCTool\bin\Debug\RDLCTool.pdb
+A:\Projectz\.net\RDLCTool\RDLCTool\obj\x86\Debug\RDLCTool.exe
+A:\Projectz\.net\RDLCTool\RDLCTool\obj\x86\Debug\RDLCTool.pdb
